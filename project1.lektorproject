@@ -1,5 +1,6 @@
 [project]
 name = project1
+themes = lektor-theme-simple-strap
 
 [servers.ghpages]
 target = ghpages://TeamHeightline/lektor
