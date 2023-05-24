@@ -1,2 +1,5 @@
 [project]
 name = project1
+
+[servers.ghpages]
+target = ghpages://TeamHeightline/lektor
